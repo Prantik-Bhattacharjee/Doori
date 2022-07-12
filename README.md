@@ -7,9 +7,6 @@ Idea Credits: LandingAI
 # How to install?
 It’s advisable to [make a new virtual environment](https://towardsdatascience.com/setting-up-python-platform-for-machine-learning-projects-cfd85682c54b) for this project and install the dependencies. Following steps can be taken to download get started with the project
 
-## Clone the repository
-```
-git clone https://github.com/aqeelanwar/SocialDistancingAI.git
 ```
 ## Install required packages
 The provided requirements.txt file can be used to install all the required packages. Use the following command
