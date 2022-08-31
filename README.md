@@ -37,4 +37,4 @@ __Output IMG__
 ![Output Img](https://github.com/Prantik-Bhattacharjee/Doori/blob/master/output%20image%203%20(2).png)
 
 
-~ By Prantik (Junior Developer)
+~ This is a Group Project done under the guidance of Dr. Abha Trivedi by Vardaan Vishnu, Shikhar Vashisth, Prantik Bhattacharjee and Prashant Chauhan for Project Exhibition II Winter Semester 2020-21.
