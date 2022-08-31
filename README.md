@@ -20,6 +20,21 @@ Overall system architecture diagram:
 3. Based on these distances, check to see if any two people are less than N pixels apart.
 4. Loop the entire process for all consequent frames.
 
-[![Watch the video](/images/cover.png)](https://www.youtube.com/watch?v=kxFwbn7Tap0&feature=emb_title)
+__Output GIF__
+
+![Output Gif](https://github.com/Prantik-Bhattacharjee/Doori/blob/master/output%20video.gif)
+
+__Output IMG__
+
+![Output Img](https://github.com/Prantik-Bhattacharjee/Doori/blob/master/output%20image%201.png)
+
+__Output IMG__
+
+![Output Img](https://github.com/Prantik-Bhattacharjee/Doori/blob/master/output%20image%203%20(1).png)
+
+__Output IMG__
+
+![Output Img](https://github.com/Prantik-Bhattacharjee/Doori/blob/master/output%20image%203%20(2).png)
+
 
 ~ By Prantik (Junior Developer)
