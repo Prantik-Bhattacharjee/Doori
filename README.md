@@ -1,6 +1,5 @@
 # Doori
 Using python, deep learning, and computer vision to monitor social distancing.
-Idea Credits: LandingAI
 
 Objective & Problem Statement:
 1. In the current Covid-19 situation, safety measures taken by the governments around the world have failed in front of Covid-19, due to lack of social distancing practice.
